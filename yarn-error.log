@@ -1,0 +1,27 @@
+Arguments: 
+  /home/shanrasool/.nvm/versions/node/v16.15.1/bin/node /mnt/c/Users/Shan Rasool/AppData/Roaming/npm/node_modules/yarn/bin/yarn.js add --dev hardhat
+
+PATH: 
+  /home/shanrasool/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/bin/remote-cli:/home/shanrasool/.nvm/versions/node/v16.15.1/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:/mnt/c/WINDOWS/system32:/mnt/c/WINDOWS:/mnt/c/WINDOWS/System32/Wbem:/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/:/mnt/c/WINDOWS/System32/OpenSSH/:/mnt/c/ProgramData/chocolatey/bin:/mnt/c/Program Files/nodejs/:/mnt/c/Program Files/Git/cmd:/mnt/c/MinGW/bin:/mnt/c/Program Files/Calibre2/:/mnt/c/Users/Shan Rasool/AppData/Local/Programs/Python/Python310/Scripts/:/mnt/c/Users/Shan Rasool/AppData/Local/Programs/Python/Python310/:/mnt/c/Users/Shan Rasool/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/Shan Rasool/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/Program Files/MongoDB/Server/5.0/bin:/mnt/c/users/shan rasool/.local/bin:/mnt/c/users/shan rasool/appdata/roaming/python/python310/scripts:/mnt/c/Users/Shan Rasool/AppData/Roaming/npm:/mnt/c/Users/Shan Rasool/AppData/Local/GitHubDesktop/bin:/snap/bin
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  16.15.1
+
+Platform: 
+  linux x64
+
+Trace: 
+  Error: connect EHOSTUNREACH 104.16.18.35:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
